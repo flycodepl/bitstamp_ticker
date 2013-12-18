@@ -24,3 +24,6 @@ You must set:
 * 231.50   - balance in USD
 * 647.90   - balance in PLN
 * -84.01   - your profit
+
+#Bar in Awesome WM
+![pcb] (https://raw.github.com/flycodepl/bitstamp_ticker/master/awesome_bar.png)
