@@ -1,14 +1,14 @@
 bitstamp_ticker
 ===============
-*Depending:
+#Depending:
 ```
 sudo pip install git+git://github.com/kmadac/bitstamp-python-client.git
 ```
 
-*Get api keys:
+#Get api keys:
 Go to bitstamp.net -> Account -> Security -> API Access -> New API Key -> Check 'Account balance' -> Generate key -> Activate
 
-*Settings:
+#Settings:
 You must set:
 user_id
 api_key
@@ -16,7 +16,7 @@ api_secret
 deposit - your deposit (in your currency)
 exchange - exchange from USD to your currency
 
-*Example output:
+#Example output:
 540.00 * 0.395375=213.50=647.98(-84.01)
 
 540.00   - current exchange BTC to USD
